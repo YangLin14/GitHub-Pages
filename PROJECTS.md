@@ -138,6 +138,8 @@ _(Arduino, C++, 3D Printing (Fusion360), Electronics)_ | _January 2023 - April 2
 
 **Description:** Led a team within the Ohlone College IEEE club to design, build, and program a joystick-controlled race car.
 
+<img src="./pictures/joystick-control-car.png" alt="Joystick Control Car Picture" title="Joystick Control Car" width="400">
+
 **Key Features & Contributions:**
 
 - Served as Vice President, overseeing the project and team members.
