@@ -17,8 +17,6 @@ Originally from Taiwan 🇹🇼, I moved to California with my mother about five
   - [💻 Technical Skills](#-technical-skills)
   - [🚴‍♂️ Beyond the Code](#️-beyond-the-code)
   - [Detailed Experience](#detailed-experience)
-  - [Markdown Feature Showcase](#markdown-feature-showcase)
-    - [Task List Example: My GitHub Page Goals](#task-list-example-my-github-page-goals)
 
 ---
 
@@ -76,81 +74,54 @@ My family (Dad, Mom, younger brother, and me) means the world to me. They are my
 
 ---
 
+---
+
 ## Detailed Experience
 
 Here's a bit more context on my roles:
 
 <h3 id="swing-phi-internship">Software Engineering Intern (AI Team) - Swing Phi LLC</h3>
-*   Engineered a political data analysis model integrating 7 APIs (e.g., Senate Lobby Disclosure) and government databases.
-*   Enabled real-time tracking of legislative actions' impact on market movements.
-*   Developed automated data aggregation and web scraping (`Selenium`, `BeautifulSoup`) solutions.
-*   Utilized `Azure OpenAI API` for generating actionable insights on legislative influence.
+
+- Engineered a political data analysis model integrating 7 APIs (e.g., Senate Lobby Disclosure) and government databases.
+- Enabled real-time tracking of legislative actions' impact on market movements.
+- Developed automated data aggregation and web scraping (`Selenium`, `BeautifulSoup`) solutions.
+- Utilized `Azure OpenAI API` for generating actionable insights on legislative influence.
 
 <h3 id="ucsd-cv-research">Computer Vision Research - UCSD</h3>
-*   Contributed to enhancing SceneProgLLM by integrating advanced LLM APIs (`Anthropic`, `Ollama`) and improving local image support for rendering pipelines.
-*   Collaborated on designing Domain-Specific Languages (DSLs) for structured interaction between LLMs and 3D databases like `3DFront`.
-*   Implemented functions in `Blender` for light placement optimization using VLMs as black-box optimizers and explored RL techniques (`REINFORCE`).
-*   Integrated CV tools (`SAM2`, `Detectron2`, `CLIP`) into evaluation pipelines.
-*   Key Tech: `Python`, `Blender`, `LangChain`, `PyTorch` (implied by Detectron2), `Docker`.
+
+- Contributed to enhancing SceneProgLLM by integrating advanced LLM APIs (`Anthropic`, `Ollama`) and improving local image support for rendering pipelines.
+- Collaborated on designing Domain-Specific Languages (DSLs) for structured interaction between LLMs and 3D databases like `3DFront`.
+- Implemented functions in `Blender` for light placement optimization using VLMs as black-box optimizers and explored RL techniques (`REINFORCE`).
+- Integrated CV tools (`SAM2`, `Detectron2`, `CLIP`) into evaluation pipelines.
+- Key Tech: `Python`, `Blender`, `LangChain`, `PyTorch` (implied by Detectron2), `Docker`.
 
 <h3 id="headstarter-fellowship">Software Engineering Fellow - Headstarter</h3>
-*   Completed an intensive 7-week AI development fellowship.
-*   Built 5 AI projects, including a capstone addressing real startup needs (`Flashy`, `ListVaults`, `PlanMyTrip`).
-*   Enhanced skills in `Machine Learning`, `AI`, `Software Engineering`, and professional competencies (planning, teamwork, communication).
-*   Collaborated with peers and mentors on complex challenges.
+
+- Completed an intensive 7-week AI development fellowship.
+- Built 5 AI projects, including a capstone addressing real startup needs (`Flashy`, `ListVaults`, `PlanMyTrip`).
+- Enhanced skills in `Machine Learning`, `AI`, `Software Engineering`, and professional competencies (planning, teamwork, communication).
+- Collaborated with peers and mentors on complex challenges.
 
 <h3 id="robotics-instructor">Robotics Instructor - Magikid Robotics Lab</h3>
-*   Instructed 1st/2nd graders in assembling OLLO and VEX GO robots.
-*   Taught coding fundamentals using `Scratch`.
-*   Guided students in `TinkerCAD` for 3D modeling and managed the 3D printing process.
-*   Introduced students to AI technologies like `ChatGPT`, `Suno`, and AI Image Generators.
+
+- Instructed 1st/2nd graders in assembling OLLO and VEX GO robots.
+- Taught coding fundamentals using `Scratch`.
+- Guided students in `TinkerCAD` for 3D modeling and managed the 3D printing process.
+- Introduced students to AI technologies like `ChatGPT`, `Suno`, and AI Image Generators.
 
 <h3 id="frugal-hub-internship">Software Developer Intern - Frugal Innovation Hub (SCU)</h3>
-*   Developed 'OrderEase', a mobile app using `Flutter` and `Figma` to bridge language barriers in food ordering.
-*   Implemented a user-friendly interface for menu browsing and ordering in native languages.
-*   Integrated translation technology for generating clear English phrases for communication.
-*   Gained full-stack experience in a humanitarian-focused project.
+
+- Developed 'OrderEase', a mobile app using `Flutter` and `Figma` to bridge language barriers in food ordering.
+- Implemented a user-friendly interface for menu browsing and ordering in native languages.
+- Integrated translation technology for generating clear English phrases for communication.
+- Gained full-stack experience in a humanitarian-focused project.
 
 <h3 id="biochain-internship">Lab Research Intern - BioChain Institute Inc.</h3>
-*   Improved operational efficiency by organizing 300+ inventory items.
-*   Scanned over 1000 slides using Aperio Lv1 scanner for customer demos, requiring precision.
-*   Gathered customer feedback on company products to identify improvement areas.
-*   Mentored fellow interns on scanning processes and data organization.
 
----
-
-## Markdown Feature Showcase
-
-This page demonstrates various GitHub Flavored Markdown constructs:
-
-- Headings (H1, H2, H3 used throughout)
-- **Bold** and _Italic_ text styling.
-- ~~Strikethrough~~ text.
-- > Blockquotes, like the one used in the [Beyond the Code](#️-beyond-the-code) section.
-- Inline `code` formatting for technical terms.
-- Code blocks for longer snippets:
-  ```javascript
-  // Simple JavaScript example
-  function greet(name) {
-    console.log(`Hello, ${name}! Welcome to my page.`);
-  }
-  greet("Visitor");
-  ```
-- External Links: e.g., to [My Personal Website](https://yanglin14.github.io/personal-website/).
-- Section Links: e.g., jump to [Detailed Experience](#detailed-experience).
-- Relative Links: e.g., link to a hypothetical resume PDF ([My Resume](./Resume.pdf)) or [Project Details](./PROJECTS.md).
-- Ordered Lists (numbered) used in [Beyond the Code](#️-beyond-the-code).
-- Unordered Lists (bullet points) used in [Professional Journey](#-professional-journey) and [Projects Showcase](#-projects-showcase).
-
-### Task List Example: My GitHub Page Goals
-
-- [x] Create `index.md` file.
-- [x] Include professional experience.
-- [x] Add personal details.
-- [x] Implement all required Markdown features.
-- [x] Add a real profile picture link.
-- [x] Create the `PROJECTS.md` file with detailed project descriptions.
-- [x] Add a link to my resume PDF.
+- Improved operational efficiency by organizing 300+ inventory items.
+- Scanned over 1000 slides using Aperio Lv1 scanner for customer demos, requiring precision.
+- Gathered customer feedback on company products to identify improvement areas.
+- Mentored fellow interns on scanning processes and data organization.
 
 ---
 
