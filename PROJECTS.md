@@ -22,7 +22,7 @@ Welcome to my projects page! Here you'll find more detailed information about th
 
 ## NewLedger
 
-_(Flutter, Dart, Firebase, Hive, Google ML Kit, Swift [initial phase]) | Dec 2024 - Present_
+_(Flutter, Dart, Firebase, Hive, Google ML Kit, Swift [initial phase])_ | _Dec 2024 - Present_
 
 **Description:** A cross-platform personal finance management application designed to simplify expense tracking, budgeting, and collaborative cost-splitting.
 
@@ -50,7 +50,7 @@ _(Flutter, Dart, Firebase, Hive, Google ML Kit, Swift [initial phase]) | Dec 202
 
 ## Flashy
 
-_(NextJS, JavaScript, Firebase, GroqAI, Clerk, Material UI) | August 2024 (Headstarter Fellowship Project - 60 hours)_
+_(NextJS, JavaScript, Firebase, GroqAI, Clerk, Material UI)_ | _August 2024 (Headstarter Fellowship Project - 60 hours)_
 
 **Description:** An AI-powered flashcard creation platform designed to enhance learning and memory retention.
 
@@ -68,7 +68,7 @@ _(NextJS, JavaScript, Firebase, GroqAI, Clerk, Material UI) | August 2024 (Heads
 
 ## ListVaults
 
-_(NextJS, JavaScript, Firebase) | August 2024 (Headstarter Fellowship Project - 40 hours)_
+_(NextJS, JavaScript, Firebase)_ | _August 2024 (Headstarter Fellowship Project - 40 hours)_
 
 **Description:** A comprehensive website for managing and tracking various media watch lists, particularly focused on anime and drama.
 
@@ -85,7 +85,7 @@ _(NextJS, JavaScript, Firebase) | August 2024 (Headstarter Fellowship Project - 
 
 ## PlanMyTrip
 
-_(Groq AI, ReactJS, NextJS, Material UI) | August 2024 (Headstarter Fellowship Project - 40 hours)_
+_(Groq AI, ReactJS, NextJS, Material UI)_ | _August 2024 (Headstarter Fellowship Project - 40 hours)_
 
 **Description:** An AI-powered platform designed to simplify and enhance the travel planning experience.
 
@@ -102,7 +102,7 @@ _(Groq AI, ReactJS, NextJS, Material UI) | August 2024 (Headstarter Fellowship P
 
 ## Personal Landing Page
 
-_(HTML, CSS, DNS, Google Analytics) | July 2024_
+_(HTML, CSS, DNS, Google Analytics)_ | _July 2024_
 
 **Description:** A central, static web page serving as a portfolio to showcase my various projects.
 
@@ -118,7 +118,7 @@ _(HTML, CSS, DNS, Google Analytics) | July 2024_
 
 ## Hosted Static Website on Amazon S3
 
-_(AWS S3, AWS Route 53, HTML) | July 2024 (Self-Learning Project)_
+_(AWS S3, AWS Route 53, HTML)_ | _July 2024 (Self-Learning Project)_
 
 **Description:** A self-directed project to learn cloud hosting basics by deploying a static website using AWS services.
 
@@ -134,7 +134,7 @@ _(AWS S3, AWS Route 53, HTML) | July 2024 (Self-Learning Project)_
 
 ## Arduino Joystick Control Car
 
-_(Arduino, C++, 3D Printing (Fusion360), Electronics) | January 2023 - April 2023 (IEEE Club Vice President Role @ Ohlone College)_
+_(Arduino, C++, 3D Printing (Fusion360), Electronics)_ | _January 2023 - April 2023 (IEEE Club Vice President Role @ Ohlone College)_
 
 **Description:** Led a team within the Ohlone College IEEE club to design, build, and program a joystick-controlled race car.
 
@@ -154,7 +154,7 @@ _(Arduino, C++, 3D Printing (Fusion360), Electronics) | January 2023 - April 202
 
 ## Rube-Goldberg Machine
 
-_(Arduino, Sensors, Microcontrollers) | August 2021 (Workshop @ Cal Poly San Luis Obispo)_
+_(Arduino, Sensors, Microcontrollers)_ | _August 2021 (Workshop @ Cal Poly San Luis Obispo)_
 
 **Description:** Designed and built multiple iterations of a Rube-Goldberg machine as part of a workshop experience.
 
@@ -168,7 +168,7 @@ _(Arduino, Sensors, Microcontrollers) | August 2021 (Workshop @ Cal Poly San Lui
 
 ## Video Game Design Workshop Project
 
-_(Unity3D, C#) | June 2021 - July 2021 (Workshop @ Cal Poly Pomona)_
+_(Unity3D, C#)_ | _June 2021 - July 2021 (Workshop @ Cal Poly Pomona)_
 
 **Description:** Developed a functional video game during an intensive game design, development, and production workshop.
 
