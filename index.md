@@ -4,9 +4,9 @@ Welcome to my personal corner on GitHub! I'm a **Computer Science** student at t
 
 Originally from Taiwan 🇹🇼, I moved to California with my mother about five years ago. My academic path initially led me to Electrical Engineering, but my fascination with building software, exploring AI, and solving complex problems prompted a switch to Computer Science. I thrive on learning new technologies and collaborating on impactful projects.
 
-[Link to my Profile Picture](Yang's_Profile_Picture.jpg)
+<img src="./pictures/Yang&apos;s_Profile_Picture.jpg" alt="Yang Lin Profile Picture" title="Yang Lin" width="200">
 
----
+[Link to my Personal Website](https://yanglin14.github.io/personal-website/)
 
 ## Sections
 
@@ -74,7 +74,7 @@ Life isn't just about coding! When I step away from the keyboard, I enjoy:
 
 My family (Dad, Mom, younger brother, and me) means the world to me. They are my biggest supporters! ~~Sometimes~~ Always!
 
----
+<img src="./pictures/Cycling.JPG" alt="Cycling Picture" title="Cycling" width="400">
 
 ---
 
@@ -118,6 +118,8 @@ Here's a bit more context on my roles:
 - Integrated translation technology for generating clear English phrases for communication.
 - Gained full-stack experience in a humanitarian-focused project.
 
+<img src="./pictures/order-app.png" alt="Frugal Innovation Hub Picture" title="Frugal Innovation Hub" width="300">
+
 <h3 id="biochain-internship">Lab Research Intern - BioChain Institute Inc.</h3>
 
 - Improved operational efficiency by organizing 300+ inventory items.
@@ -140,7 +142,7 @@ This page demonstrates various GitHub Flavored Markdown constructs:
   ```javascript
   // Simple JavaScript example
   function greet(name) {
-    console.log(`Hello, ${name}! Welcome to my page.`);
+    console.log(`It is my pleasure to meet you ${name}!`);
   }
   greet("Visitor");
   ```
